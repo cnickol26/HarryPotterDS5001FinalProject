@@ -1,7 +1,8 @@
 # HarryPotterDS5001FinalProject
 Connor Nickol DS 5001 Text Analytics Final Project
+<br>
 Spring 2023
-
+<br>
 List of what's in this repository:
 Project Tables: Individual csv files of tables created during this analysis. Tables too big for github have been uploaded to UVA box.
 Report Images: Image files used in the creation of the FINAL_REPORT.ipynb file.
